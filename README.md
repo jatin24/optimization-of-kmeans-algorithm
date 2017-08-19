@@ -1,0 +1,2 @@
+# optimization-of-kmeans-algorithm
+K-Means is a clustering algorithm which is used for cluster analysis in data mining; it partitions the data set into k clusters. In this project, K-Means algorithm is optimized using PSO (Parm Swarm Optimization)in terms of time. PSO simulates the social behavior of birds and helps to improve candidate solution iteratively. This project is made in python and has been tested on some standard data sets.
